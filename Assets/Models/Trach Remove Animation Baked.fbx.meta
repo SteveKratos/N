@@ -1,0 +1,2593 @@
+fileFormatVersion: 2
+guid: 08ceeb43273d2c9479c44db68bde387d
+timeCreated: 1531223688
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aiAreaLight2
+    100002: Air_transmeter
+    100004: Air_transmeter 1
+    100006: Air_transmeter 2
+    100008: Air_Tube
+    100010: Air_Tube 1
+    100012: Air_Tube 2
+    100014: Air_Tube_Set
+    100016: aiSkyDomeLight1
+    100018: BABY
+    100020: Baby_body
+    100022: be_l_Index_E01
+    100024: be_l_Index_E01 1
+    100026: be_l_Index_E01 2
+    100028: be_l_mid_E01
+    100030: be_l_mid_E01 1
+    100032: be_l_mid_E01 2
+    100034: be_l_pinkyE01
+    100036: be_l_pinkyE01 1
+    100038: be_l_pinkyE01 2
+    100040: be_l_ringE01
+    100042: be_l_ringE01 1
+    100044: be_l_ringE01 2
+    100046: be_l_thumbD01
+    100048: be_l_thumbD01 1
+    100050: be_l_thumbD01 2
+    100052: be_r_Index_E01
+    100054: be_r_Index_E01 1
+    100056: be_r_Index_E01 2
+    100058: be_r_mid_E01
+    100060: be_r_mid_E01 1
+    100062: be_r_mid_E01 2
+    100064: be_r_pinkyE01
+    100066: be_r_pinkyE01 1
+    100068: be_r_pinkyE01 2
+    100070: be_r_ringE01
+    100072: be_r_ringE01 1
+    100074: be_r_ringE01 2
+    100076: be_r_thumbD01
+    100078: be_r_thumbD01 1
+    100080: be_r_thumbD01 2
+    100082: Bed
+    100084: bend1Handle
+    100086: bn_l_elbow01
+    100088: bn_l_elbow01 1
+    100090: bn_l_elbow01 2
+    100092: bn_l_foreArm01
+    100094: bn_l_foreArm01 1
+    100096: bn_l_foreArm01 2
+    100098: bn_l_Index_A01
+    100100: bn_l_Index_A01 1
+    100102: bn_l_Index_A01 2
+    100104: bn_l_Index_B01
+    100106: bn_l_Index_B01 1
+    100108: bn_l_Index_B01 2
+    100110: bn_l_Index_C01
+    100112: bn_l_Index_C01 1
+    100114: bn_l_Index_C01 2
+    100116: bn_l_Index_D01
+    100118: bn_l_Index_D01 1
+    100120: bn_l_Index_D01 2
+    100122: bn_l_mid_A01
+    100124: bn_l_mid_A01 1
+    100126: bn_l_mid_A01 2
+    100128: bn_l_mid_B01
+    100130: bn_l_mid_B01 1
+    100132: bn_l_mid_B01 2
+    100134: bn_l_mid_C01
+    100136: bn_l_mid_C01 1
+    100138: bn_l_mid_C01 2
+    100140: bn_l_mid_D01
+    100142: bn_l_mid_D01 1
+    100144: bn_l_mid_D01 2
+    100146: bn_l_pinkyA01
+    100148: bn_l_pinkyA01 1
+    100150: bn_l_pinkyA01 2
+    100152: bn_l_pinkyB01
+    100154: bn_l_pinkyB01 1
+    100156: bn_l_pinkyB01 2
+    100158: bn_l_pinkyC01
+    100160: bn_l_pinkyC01 1
+    100162: bn_l_pinkyC01 2
+    100164: bn_l_pinkyD01
+    100166: bn_l_pinkyD01 1
+    100168: bn_l_pinkyD01 2
+    100170: bn_l_ringA01
+    100172: bn_l_ringA01 1
+    100174: bn_l_ringA01 2
+    100176: bn_l_ringB01
+    100178: bn_l_ringB01 1
+    100180: bn_l_ringB01 2
+    100182: bn_l_ringC01
+    100184: bn_l_ringC01 1
+    100186: bn_l_ringC01 2
+    100188: bn_l_ringD01
+    100190: bn_l_ringD01 1
+    100192: bn_l_ringD01 2
+    100194: bn_l_thumbA01
+    100196: bn_l_thumbA01 1
+    100198: bn_l_thumbA01 2
+    100200: bn_l_thumbB01
+    100202: bn_l_thumbB01 1
+    100204: bn_l_thumbB01 2
+    100206: bn_l_thumbC01
+    100208: bn_l_thumbC01 1
+    100210: bn_l_thumbC01 2
+    100212: bn_l_Wrist01
+    100214: bn_l_Wrist01 1
+    100216: bn_l_Wrist01 2
+    100218: bn_r_elbow01
+    100220: bn_r_elbow01 1
+    100222: bn_r_elbow01 2
+    100224: bn_r_foreArm01
+    100226: bn_r_foreArm01 1
+    100228: bn_r_foreArm01 2
+    100230: bn_r_Index_A01
+    100232: bn_r_Index_A01 1
+    100234: bn_r_Index_A01 2
+    100236: bn_r_Index_B01
+    100238: bn_r_Index_B01 1
+    100240: bn_r_Index_B01 2
+    100242: bn_r_Index_C01
+    100244: bn_r_Index_C01 1
+    100246: bn_r_Index_C01 2
+    100248: bn_r_Index_D01
+    100250: bn_r_Index_D01 1
+    100252: bn_r_Index_D01 2
+    100254: bn_r_mid_A01
+    100256: bn_r_mid_A01 1
+    100258: bn_r_mid_A01 2
+    100260: bn_r_mid_B01
+    100262: bn_r_mid_B01 1
+    100264: bn_r_mid_B01 2
+    100266: bn_r_mid_C01
+    100268: bn_r_mid_C01 1
+    100270: bn_r_mid_C01 2
+    100272: bn_r_mid_D01
+    100274: bn_r_mid_D01 1
+    100276: bn_r_mid_D01 2
+    100278: bn_r_pinkyA01
+    100280: bn_r_pinkyA01 1
+    100282: bn_r_pinkyA01 2
+    100284: bn_r_pinkyB01
+    100286: bn_r_pinkyB01 1
+    100288: bn_r_pinkyB01 2
+    100290: bn_r_pinkyC01
+    100292: bn_r_pinkyC01 1
+    100294: bn_r_pinkyC01 2
+    100296: bn_r_pinkyD01
+    100298: bn_r_pinkyD01 1
+    100300: bn_r_pinkyD01 2
+    100302: bn_r_ringA01
+    100304: bn_r_ringA01 1
+    100306: bn_r_ringA01 2
+    100308: bn_r_ringB01
+    100310: bn_r_ringB01 1
+    100312: bn_r_ringB01 2
+    100314: bn_r_ringC01
+    100316: bn_r_ringC01 1
+    100318: bn_r_ringC01 2
+    100320: bn_r_ringD01
+    100322: bn_r_ringD01 1
+    100324: bn_r_ringD01 2
+    100326: bn_r_thumbA01
+    100328: bn_r_thumbA01 1
+    100330: bn_r_thumbA01 2
+    100332: bn_r_thumbB01
+    100334: bn_r_thumbB01 1
+    100336: bn_r_thumbB01 2
+    100338: bn_r_thumbC01
+    100340: bn_r_thumbC01 1
+    100342: bn_r_thumbC01 2
+    100344: bn_r_Wrist01
+    100346: bn_r_Wrist01 1
+    100348: bn_r_Wrist01 2
+    100350: bnJnt_01
+    100352: bnJnt_01 1
+    100354: bnJnt_02
+    100356: bnJnt_02 1
+    100358: bnJnt_03
+    100360: bnJnt_03 1
+    100362: bnJnt_04
+    100364: bnJnt_04 1
+    100366: bnJnt_05
+    100368: bnJnt_05 1
+    100370: bnJnt_06
+    100372: bnJnt_06 1
+    100374: bnJnt_06 2
+    100376: bnJnt_06 3
+    100378: bnJnt_07
+    100380: bnJnt_07 1
+    100382: bnJnt_08
+    100384: bnJnt_08 1
+    100386: bnJnt_09
+    100388: bnJnt_09 1
+    100390: bnJnt_10
+    100392: bnJnt_10 1
+    100394: bnJnt_11
+    100396: bnJnt_11 1
+    100398: bnJnt_12
+    100400: bnJnt_12 1
+    100402: bnJnt_13
+    100404: bnJnt_13 1
+    100406: bnJnt_14
+    100408: bnJnt_14 1
+    100410: bnJnt_15
+    100412: bnJnt_15 1
+    100414: bnJnt_16
+    100416: bnJnt_16 1
+    100418: bnJnt_17
+    100420: bnJnt_17 1
+    100422: bnJnt_18
+    100424: bnJnt_18 1
+    100426: bnJnt_19
+    100428: bnJnt_19 1
+    100430: bnJnt_20
+    100432: bnJnt_20 1
+    100434: bnJnt_21
+    100436: bnJnt_21 1
+    100438: bnJnt_22
+    100440: bnJnt_22 1
+    100442: bnJnt_23
+    100444: bnJnt_23 1
+    100446: bnJnt_24
+    100448: bnJnt_24 1
+    100450: bottom_shaft01
+    100452: bottom_shaft01 1
+    100454: bottom_wireControll
+    100456: bottom_wireControll 1
+    100458: Box147
+    100460: Box176
+    100462: Box227
+    100464: Box228
+    100466: Box230
+    100468: Box231
+    100470: Box232
+    100472: Box233
+    100474: Box236
+    100476: Box237
+    100478: Box243
+    100480: cabinets bathroom master01
+    100482: cc_l_elbow01
+    100484: cc_l_elbow01 1
+    100486: cc_l_elbow01 2
+    100488: cc_l_hand01
+    100490: cc_l_hand01 1
+    100492: cc_l_hand01 2
+    100494: cc_r_elbow01
+    100496: cc_r_elbow01 1
+    100498: cc_r_elbow01 2
+    100500: cc_r_hand01
+    100502: cc_r_hand01 1
+    100504: cc_r_hand01 2
+    100506: ceiling
+    100508: ceiling frames
+    100510: ChamferCyl30
+    100512: ChamferCyl32
+    100514: ChamferCyl38b
+    100516: ChamferCyl40
+    100518: ChamferCyl42
+    100520: ChamferCyl44a
+    100522: Container1
+    100524: controlCrvs01
+    100526: controlCrvs01 1
+    100528: controlObjects01
+    100530: controlObjects01 1
+    100532: controlObjects01 2
+    100534: counter bathroom02
+    100536: cSpl_wire01
+    100538: cSpl_wire01 1
+    100540: curtain
+    100542: curtain01
+    100544: curtain02
+    100546: curve2attachedCurve1
+    100548: curve2attachedCurve1BaseWire
+    100550: curve3
+    100552: curve3BaseWire
+    100554: curve3BaseWire1
+    100556: curve3BaseWire2
+    100558: Curve_tube
+    100560: Curve_tube 1
+    100562: Curve_tube 2
+    100564: Curve_tube_trans
+    100566: Curve_tube_trans 1
+    100568: Curve_tube_trans 2
+    100570: Curve_tube_trans_blend
+    100572: Cylinder102
+    100574: Cylinder114
+    100576: Cylinder123
+    100578: Cylinder124
+    100580: Cylinder69ggff2
+    100582: Cylinder75
+    100584: Cylinder81
+    100586: Cylinder99
+    100588: Digital_Clock
+    100590: door handle
+    100592: door handle01
+    100594: Door_Frame
+    100596: drawer013
+    100598: drawer017
+    100600: drawer018
+    100602: drawer019
+    100604: Drawer_Handle_01
+    100606: Drawer_Handle_02
+    100608: Drawer_Handle_03
+    100610: Drawer_Handle_04
+    100612: Equipments
+    100614: Exit_Board
+    100616: extraNodes01
+    100618: extraNodes01 1
+    100620: eye_outer
+    100622: Flat_Glove
+    100624: floor
+    100626: Gel_Tube
+    100628: glass
+    100630: globalControls01
+    100632: globalControls01 1
+    100634: globalControls01 2
+    100636: globalMove01
+    100638: globalMove01 1
+    100640: globalMove01 2
+    100642: globalMove01 3
+    100644: globalMove01 4
+    100646: Hand_with_blue_gloves
+    100648: Hand_with_orange_gloves
+    100650: Hand_without_gloves
+    100652: Holder
+    100654: Holder 1
+    100656: Holder 2
+    100658: Holder 3
+    100660: ikHandle1
+    100662: ikHandle1 1
+    100664: iks01
+    100666: iks01 1
+    100668: inner_tube
+    100670: inner_tube 1
+    100672: inner_tube 2
+    100674: jnDrv_Bottom01
+    100676: jnDrv_Bottom01 1
+    100678: jnDrv_Mid01
+    100680: jnDrv_Mid01 1
+    100682: jnDrv_Top01
+    100684: jnDrv_Top01 1
+    100686: joint26
+    100688: joint26 1
+    100690: joint27
+    100692: joint27 1
+    100694: joint28
+    100696: joint28 1
+    100698: joint29
+    100700: joint29 1
+    100702: joint30
+    100704: joint30 1
+    100706: joints01
+    100708: joints01 1
+    100710: joints01 2
+    100712: joints01 3
+    100714: joints01 4
+    100716: latex gloves
+    100718: Left_Door
+    100720: Left_Door 1
+    100722: Left_eye_ball
+    100724: Left_eye_lens
+    100726: Left_eye_lens1
+    100728: Left_Glove
+    100730: Left_hand
+    100732: Left_hand 1
+    100734: Left_hand 2
+    100736: Left_Hand_Glove
+    100738: Left_Hand_Glove 1
+    100740: locator1
+    100742: locator1 1
+    100744: locator1 2
+    100746: locMatch_l_elbow01
+    100748: locMatch_l_elbow01 1
+    100750: locMatch_l_elbow01 2
+    100752: locMatch_r_elbow01
+    100754: locMatch_r_elbow01 1
+    100756: locMatch_r_elbow01 2
+    100758: locMatch_r_wrist01
+    100760: locMatch_r_wrist01 1
+    100762: locMatch_r_wrist01 2
+    100764: Lubricant_Gel_Packet
+    100766: M_Skin_NoGenital
+    100768: M_Skin_NoGenital 1
+    100770: M_Skin_NoGenital 2
+    100772: M_Skin_NoGenital 3
+    100774: M_Skin_NoGenital 4
+    100776: M_Skin_NoGenital 5
+    100778: Main_Door
+    100780: MainJnt01
+    100782: MainJnt01 1
+    100784: Master_Control
+    100786: Master_Control 1
+    100788: mid_wireControl01
+    100790: mid_wireControl01 1
+    100792: mirrors_bath01
+    100794: mobile curtain frame
+    100796: mobile curtain frame01
+    100798: mobile curtain frame02
+    100800: mobile curtain leg
+    100802: mobile curtain leg2
+    100804: mobile curtain leg3
+    100806: mobile curtain leg4
+    100808: mobile curtain leg5
+    100810: mobile curtain leg6
+    100812: Mobile_Curtain_01
+    100814: Mobile_Curtain_02
+    100816: Mobile_Curtain_03
+    100818: Models01
+    100820: Models01 1
+    100822: monitor01_body01
+    100824: Obturator
+    100826: Obturator 1
+    100828: Obturator 2
+    100830: Operating_Table
+    100832: Operation_Theater
+    100834: OT_13_Ambulance_Strecher
+    100836: OT_29_Hospital_Ventilator
+    100838: perforated metal foil
+    100840: Pipe_01
+    100842: Pipe_02
+    100844: Pipe_B1
+    100846: plexiglass1
+    100848: plinth
+    100850: polySurface1
+    100852: polySurface10
+    100854: polySurface11
+    100856: polySurface12
+    100858: polySurface2
+    100860: polySurface2 1
+    100862: polySurface3
+    100864: polySurface5
+    100866: polySurface50
+    100868: polySurface51
+    100870: polySurface52
+    100872: polySurface53
+    100874: polySurface54
+    100876: polySurface55
+    100878: polySurface6
+    100880: polySurface7
+    100882: Rectangle22
+    100884: Rectangle25
+    100886: Rectangle26
+    100888: Rectangle41
+    100890: Right_Door
+    100892: Right_Door 1
+    100894: Right_eye_ball
+    100896: Right_Glove
+    100898: Right_hand
+    100900: Right_hand 1
+    100902: Right_hand 2
+    100904: Right_Hand_Glove
+    100906: Right_Hand_Glove 1
+    100908: Room_Set
+    100910: rotative_suppor02a
+    100912: rotative_support
+    100914: Side_curve_tube
+    100916: Side_curve_tube 1
+    100918: Side_curve_tube 2
+    100920: Sink_Set
+    100922: Soap_dispencer
+    100924: Soap_Dispensor
+    100926: Spotlight001
+    100928: Spotlight002
+    100930: Spotlight003
+    100932: Spotlight004
+    100934: Spotlight005
+    100936: Spotlight006
+    100938: Spotlight007
+    100940: Spotlight008
+    100942: spotlight_shade
+    100944: spotlight_shade001
+    100946: spotlight_shade002
+    100948: spotlight_shade003
+    100950: spotlight_shade004
+    100952: spotlight_shade005
+    100954: spotlight_shade006
+    100956: spotlight_shade007
+    100958: Syringe
+    100960: Syringe1
+    100962: syringe_holder
+    100964: syringe_holder 1
+    100966: syringe_outer
+    100968: syringe_outer 1
+    100970: Text002
+    100972: Tissue_paper1
+    100974: Top_cover
+    100976: top_wireControl01
+    100978: top_wireControl01 1
+    100980: Towel
+    100982: Towel_Ring
+    100984: Towel_Set
+    100986: Trach
+    100988: Trach 1
+    100990: Trach 2
+    100992: //RootNode
+    100994: Trach_and_Obturator
+    100996: Trach_and_Obturator 1
+    100998: Trach_and_Obturator1
+    101000: Trach_box_2_5
+    101002: Trach_box_3_0
+    101004: Trach_Container_Box
+    101006: Trach_Rigged
+    101008: trach_rigged
+    101010: Trach_Tie_2_B12
+    101012: Trach_Tie_3
+    101014: Trach_Tie_3_B1
+    101016: Trach_Tie_B1
+    101018: Trach_Tie_Original
+    101020: Trach_Tie_Original1
+    101022: Trach_Tie_Original4
+    101024: transform100
+    101026: transform101
+    101028: transform102
+    101030: transform103
+    101032: transform104
+    101034: transform105
+    101036: transform106
+    101038: transform107
+    101040: transform108
+    101042: transform109
+    101044: transform110
+    101046: transform111
+    101048: transform112
+    101050: transform113
+    101052: transform114
+    101054: transform115
+    101056: transform116
+    101058: transform117
+    101060: transform118
+    101062: transform119
+    101064: transform120
+    101066: transform121
+    101068: transform122
+    101070: transform123
+    101072: transform124
+    101074: transform125
+    101076: transform126
+    101078: transform127
+    101080: transform128
+    101082: transform129
+    101084: transform13
+    101086: transform130
+    101088: transform131
+    101090: transform132
+    101092: transform133
+    101094: transform14
+    101096: transform15
+    101098: transform16
+    101100: transform17
+    101102: transform18
+    101104: transform19
+    101106: transform20
+    101108: transform21
+    101110: transform23
+    101112: transform24
+    101114: transform25
+    101116: transform26
+    101118: transform27
+    101120: transform28
+    101122: transform29
+    101124: transform30
+    101126: transform31
+    101128: transform32
+    101130: transform33
+    101132: transform34
+    101134: transform35
+    101136: transform36
+    101138: transform37
+    101140: transform38
+    101142: transform39
+    101144: transform40
+    101146: transform41
+    101148: transform42
+    101150: transform43
+    101152: transform44
+    101154: transform45
+    101156: transform46
+    101158: transform47
+    101160: transform48
+    101162: transform49
+    101164: transform50
+    101166: transform51
+    101168: transform52
+    101170: transform53
+    101172: transform54
+    101174: transform55
+    101176: transform56
+    101178: transform57
+    101180: transform58
+    101182: transform59
+    101184: transform60
+    101186: transform61
+    101188: transform62
+    101190: transform63
+    101192: transform64
+    101194: transform65
+    101196: transform66
+    101198: transform67
+    101200: transform68
+    101202: transform69
+    101204: transform70
+    101206: transform71
+    101208: transform72
+    101210: transform73
+    101212: transform74
+    101214: transform75
+    101216: transform76
+    101218: transform77
+    101220: transform78
+    101222: transform79
+    101224: transform80
+    101226: transform81
+    101228: transform82
+    101230: transform83
+    101232: transform84
+    101234: transform85
+    101236: transform86
+    101238: transform87
+    101240: transform88
+    101242: transform89
+    101244: transform90
+    101246: transform91
+    101248: transform92
+    101250: transform93
+    101252: transform94
+    101254: transform95
+    101256: transform96
+    101258: transform97
+    101260: transform98
+    101262: transform99
+    101264: Tube032
+    101266: Tube040
+    101268: Tube041
+    101270: Tube042
+    101272: Tube043
+    101274: Tube044
+    101276: Tube045
+    101278: Tube046
+    101280: upperBody91
+    101282: upperBody91 1
+    101284: ventilator  bag cap
+    101286: ventilator arm handle01
+    101288: ventilator arm segment02
+    101290: ventilator arm segment04
+    101292: ventilator bag
+    101294: ventilator base
+    101296: ventilator box01
+    101298: ventilator brushed metal01
+    101300: ventilator button
+    101302: ventilator button cap
+    101304: ventilator controls
+    101306: ventilator controls 2
+    101308: ventilator glass01
+    101310: ventilator glass03
+    101312: ventilator glass04
+    101314: ventilator handle
+    101316: ventilator hose cap 07
+    101318: ventilator hose cap 11
+    101320: ventilator hose cap 12
+    101322: ventilator hose cap 13
+    101324: ventilator hose cap 14
+    101326: ventilator hose cap 15
+    101328: ventilator hose cap 16
+    101330: ventilator hose cap 17
+    101332: ventilator hose cap04
+    101334: ventilator hose cap05
+    101336: ventilator hose output02
+    101338: ventilator hose output03
+    101340: ventilator hose segment01
+    101342: ventilator hose segment02
+    101344: ventilator hose segment03
+    101346: ventilator hose support
+    101348: ventilator hose support 03
+    101350: ventilator hose support 04
+    101352: ventilator large button
+    101354: ventilator led01
+    101356: ventilator led02
+    101358: ventilator monitor handle
+    101360: ventilator screen
+    101362: ventilator stand
+    101364: ventilator support structure
+    101366: Wall
+    101368: Wash_Basin
+    101370: wheel013
+    101372: wheel014
+    101374: wheel015
+    101376: wheel08
+    101378: wheel_axis08a
+    101380: wheel_axis08a1
+    101382: wheel_axis08a2
+    101384: wheel_axis08a3
+    101386: window glass01
+    101388: window glass02
+    101390: Wings_holder
+    101392: Wings_holder 1
+    101394: Wings_holder 2
+    101396: zhiniaoku
+    400000: aiAreaLight2
+    400002: Air_transmeter
+    400004: Air_transmeter 1
+    400006: Air_transmeter 2
+    400008: Air_Tube
+    400010: Air_Tube 1
+    400012: Air_Tube 2
+    400014: Air_Tube_Set
+    400016: aiSkyDomeLight1
+    400018: BABY
+    400020: Baby_body
+    400022: be_l_Index_E01
+    400024: be_l_Index_E01 1
+    400026: be_l_Index_E01 2
+    400028: be_l_mid_E01
+    400030: be_l_mid_E01 1
+    400032: be_l_mid_E01 2
+    400034: be_l_pinkyE01
+    400036: be_l_pinkyE01 1
+    400038: be_l_pinkyE01 2
+    400040: be_l_ringE01
+    400042: be_l_ringE01 1
+    400044: be_l_ringE01 2
+    400046: be_l_thumbD01
+    400048: be_l_thumbD01 1
+    400050: be_l_thumbD01 2
+    400052: be_r_Index_E01
+    400054: be_r_Index_E01 1
+    400056: be_r_Index_E01 2
+    400058: be_r_mid_E01
+    400060: be_r_mid_E01 1
+    400062: be_r_mid_E01 2
+    400064: be_r_pinkyE01
+    400066: be_r_pinkyE01 1
+    400068: be_r_pinkyE01 2
+    400070: be_r_ringE01
+    400072: be_r_ringE01 1
+    400074: be_r_ringE01 2
+    400076: be_r_thumbD01
+    400078: be_r_thumbD01 1
+    400080: be_r_thumbD01 2
+    400082: Bed
+    400084: bend1Handle
+    400086: bn_l_elbow01
+    400088: bn_l_elbow01 1
+    400090: bn_l_elbow01 2
+    400092: bn_l_foreArm01
+    400094: bn_l_foreArm01 1
+    400096: bn_l_foreArm01 2
+    400098: bn_l_Index_A01
+    400100: bn_l_Index_A01 1
+    400102: bn_l_Index_A01 2
+    400104: bn_l_Index_B01
+    400106: bn_l_Index_B01 1
+    400108: bn_l_Index_B01 2
+    400110: bn_l_Index_C01
+    400112: bn_l_Index_C01 1
+    400114: bn_l_Index_C01 2
+    400116: bn_l_Index_D01
+    400118: bn_l_Index_D01 1
+    400120: bn_l_Index_D01 2
+    400122: bn_l_mid_A01
+    400124: bn_l_mid_A01 1
+    400126: bn_l_mid_A01 2
+    400128: bn_l_mid_B01
+    400130: bn_l_mid_B01 1
+    400132: bn_l_mid_B01 2
+    400134: bn_l_mid_C01
+    400136: bn_l_mid_C01 1
+    400138: bn_l_mid_C01 2
+    400140: bn_l_mid_D01
+    400142: bn_l_mid_D01 1
+    400144: bn_l_mid_D01 2
+    400146: bn_l_pinkyA01
+    400148: bn_l_pinkyA01 1
+    400150: bn_l_pinkyA01 2
+    400152: bn_l_pinkyB01
+    400154: bn_l_pinkyB01 1
+    400156: bn_l_pinkyB01 2
+    400158: bn_l_pinkyC01
+    400160: bn_l_pinkyC01 1
+    400162: bn_l_pinkyC01 2
+    400164: bn_l_pinkyD01
+    400166: bn_l_pinkyD01 1
+    400168: bn_l_pinkyD01 2
+    400170: bn_l_ringA01
+    400172: bn_l_ringA01 1
+    400174: bn_l_ringA01 2
+    400176: bn_l_ringB01
+    400178: bn_l_ringB01 1
+    400180: bn_l_ringB01 2
+    400182: bn_l_ringC01
+    400184: bn_l_ringC01 1
+    400186: bn_l_ringC01 2
+    400188: bn_l_ringD01
+    400190: bn_l_ringD01 1
+    400192: bn_l_ringD01 2
+    400194: bn_l_thumbA01
+    400196: bn_l_thumbA01 1
+    400198: bn_l_thumbA01 2
+    400200: bn_l_thumbB01
+    400202: bn_l_thumbB01 1
+    400204: bn_l_thumbB01 2
+    400206: bn_l_thumbC01
+    400208: bn_l_thumbC01 1
+    400210: bn_l_thumbC01 2
+    400212: bn_l_Wrist01
+    400214: bn_l_Wrist01 1
+    400216: bn_l_Wrist01 2
+    400218: bn_r_elbow01
+    400220: bn_r_elbow01 1
+    400222: bn_r_elbow01 2
+    400224: bn_r_foreArm01
+    400226: bn_r_foreArm01 1
+    400228: bn_r_foreArm01 2
+    400230: bn_r_Index_A01
+    400232: bn_r_Index_A01 1
+    400234: bn_r_Index_A01 2
+    400236: bn_r_Index_B01
+    400238: bn_r_Index_B01 1
+    400240: bn_r_Index_B01 2
+    400242: bn_r_Index_C01
+    400244: bn_r_Index_C01 1
+    400246: bn_r_Index_C01 2
+    400248: bn_r_Index_D01
+    400250: bn_r_Index_D01 1
+    400252: bn_r_Index_D01 2
+    400254: bn_r_mid_A01
+    400256: bn_r_mid_A01 1
+    400258: bn_r_mid_A01 2
+    400260: bn_r_mid_B01
+    400262: bn_r_mid_B01 1
+    400264: bn_r_mid_B01 2
+    400266: bn_r_mid_C01
+    400268: bn_r_mid_C01 1
+    400270: bn_r_mid_C01 2
+    400272: bn_r_mid_D01
+    400274: bn_r_mid_D01 1
+    400276: bn_r_mid_D01 2
+    400278: bn_r_pinkyA01
+    400280: bn_r_pinkyA01 1
+    400282: bn_r_pinkyA01 2
+    400284: bn_r_pinkyB01
+    400286: bn_r_pinkyB01 1
+    400288: bn_r_pinkyB01 2
+    400290: bn_r_pinkyC01
+    400292: bn_r_pinkyC01 1
+    400294: bn_r_pinkyC01 2
+    400296: bn_r_pinkyD01
+    400298: bn_r_pinkyD01 1
+    400300: bn_r_pinkyD01 2
+    400302: bn_r_ringA01
+    400304: bn_r_ringA01 1
+    400306: bn_r_ringA01 2
+    400308: bn_r_ringB01
+    400310: bn_r_ringB01 1
+    400312: bn_r_ringB01 2
+    400314: bn_r_ringC01
+    400316: bn_r_ringC01 1
+    400318: bn_r_ringC01 2
+    400320: bn_r_ringD01
+    400322: bn_r_ringD01 1
+    400324: bn_r_ringD01 2
+    400326: bn_r_thumbA01
+    400328: bn_r_thumbA01 1
+    400330: bn_r_thumbA01 2
+    400332: bn_r_thumbB01
+    400334: bn_r_thumbB01 1
+    400336: bn_r_thumbB01 2
+    400338: bn_r_thumbC01
+    400340: bn_r_thumbC01 1
+    400342: bn_r_thumbC01 2
+    400344: bn_r_Wrist01
+    400346: bn_r_Wrist01 1
+    400348: bn_r_Wrist01 2
+    400350: bnJnt_01
+    400352: bnJnt_01 1
+    400354: bnJnt_02
+    400356: bnJnt_02 1
+    400358: bnJnt_03
+    400360: bnJnt_03 1
+    400362: bnJnt_04
+    400364: bnJnt_04 1
+    400366: bnJnt_05
+    400368: bnJnt_05 1
+    400370: bnJnt_06
+    400372: bnJnt_06 1
+    400374: bnJnt_06 2
+    400376: bnJnt_06 3
+    400378: bnJnt_07
+    400380: bnJnt_07 1
+    400382: bnJnt_08
+    400384: bnJnt_08 1
+    400386: bnJnt_09
+    400388: bnJnt_09 1
+    400390: bnJnt_10
+    400392: bnJnt_10 1
+    400394: bnJnt_11
+    400396: bnJnt_11 1
+    400398: bnJnt_12
+    400400: bnJnt_12 1
+    400402: bnJnt_13
+    400404: bnJnt_13 1
+    400406: bnJnt_14
+    400408: bnJnt_14 1
+    400410: bnJnt_15
+    400412: bnJnt_15 1
+    400414: bnJnt_16
+    400416: bnJnt_16 1
+    400418: bnJnt_17
+    400420: bnJnt_17 1
+    400422: bnJnt_18
+    400424: bnJnt_18 1
+    400426: bnJnt_19
+    400428: bnJnt_19 1
+    400430: bnJnt_20
+    400432: bnJnt_20 1
+    400434: bnJnt_21
+    400436: bnJnt_21 1
+    400438: bnJnt_22
+    400440: bnJnt_22 1
+    400442: bnJnt_23
+    400444: bnJnt_23 1
+    400446: bnJnt_24
+    400448: bnJnt_24 1
+    400450: bottom_shaft01
+    400452: bottom_shaft01 1
+    400454: bottom_wireControll
+    400456: bottom_wireControll 1
+    400458: Box147
+    400460: Box176
+    400462: Box227
+    400464: Box228
+    400466: Box230
+    400468: Box231
+    400470: Box232
+    400472: Box233
+    400474: Box236
+    400476: Box237
+    400478: Box243
+    400480: cabinets bathroom master01
+    400482: cc_l_elbow01
+    400484: cc_l_elbow01 1
+    400486: cc_l_elbow01 2
+    400488: cc_l_hand01
+    400490: cc_l_hand01 1
+    400492: cc_l_hand01 2
+    400494: cc_r_elbow01
+    400496: cc_r_elbow01 1
+    400498: cc_r_elbow01 2
+    400500: cc_r_hand01
+    400502: cc_r_hand01 1
+    400504: cc_r_hand01 2
+    400506: ceiling
+    400508: ceiling frames
+    400510: ChamferCyl30
+    400512: ChamferCyl32
+    400514: ChamferCyl38b
+    400516: ChamferCyl40
+    400518: ChamferCyl42
+    400520: ChamferCyl44a
+    400522: Container1
+    400524: controlCrvs01
+    400526: controlCrvs01 1
+    400528: controlObjects01
+    400530: controlObjects01 1
+    400532: controlObjects01 2
+    400534: counter bathroom02
+    400536: cSpl_wire01
+    400538: cSpl_wire01 1
+    400540: curtain
+    400542: curtain01
+    400544: curtain02
+    400546: curve2attachedCurve1
+    400548: curve2attachedCurve1BaseWire
+    400550: curve3
+    400552: curve3BaseWire
+    400554: curve3BaseWire1
+    400556: curve3BaseWire2
+    400558: Curve_tube
+    400560: Curve_tube 1
+    400562: Curve_tube 2
+    400564: Curve_tube_trans
+    400566: Curve_tube_trans 1
+    400568: Curve_tube_trans 2
+    400570: Curve_tube_trans_blend
+    400572: Cylinder102
+    400574: Cylinder114
+    400576: Cylinder123
+    400578: Cylinder124
+    400580: Cylinder69ggff2
+    400582: Cylinder75
+    400584: Cylinder81
+    400586: Cylinder99
+    400588: Digital_Clock
+    400590: door handle
+    400592: door handle01
+    400594: Door_Frame
+    400596: drawer013
+    400598: drawer017
+    400600: drawer018
+    400602: drawer019
+    400604: Drawer_Handle_01
+    400606: Drawer_Handle_02
+    400608: Drawer_Handle_03
+    400610: Drawer_Handle_04
+    400612: Equipments
+    400614: Exit_Board
+    400616: extraNodes01
+    400618: extraNodes01 1
+    400620: eye_outer
+    400622: Flat_Glove
+    400624: floor
+    400626: Gel_Tube
+    400628: glass
+    400630: globalControls01
+    400632: globalControls01 1
+    400634: globalControls01 2
+    400636: globalMove01
+    400638: globalMove01 1
+    400640: globalMove01 2
+    400642: globalMove01 3
+    400644: globalMove01 4
+    400646: Hand_with_blue_gloves
+    400648: Hand_with_orange_gloves
+    400650: Hand_without_gloves
+    400652: Holder
+    400654: Holder 1
+    400656: Holder 2
+    400658: Holder 3
+    400660: ikHandle1
+    400662: ikHandle1 1
+    400664: iks01
+    400666: iks01 1
+    400668: inner_tube
+    400670: inner_tube 1
+    400672: inner_tube 2
+    400674: jnDrv_Bottom01
+    400676: jnDrv_Bottom01 1
+    400678: jnDrv_Mid01
+    400680: jnDrv_Mid01 1
+    400682: jnDrv_Top01
+    400684: jnDrv_Top01 1
+    400686: joint26
+    400688: joint26 1
+    400690: joint27
+    400692: joint27 1
+    400694: joint28
+    400696: joint28 1
+    400698: joint29
+    400700: joint29 1
+    400702: joint30
+    400704: joint30 1
+    400706: joints01
+    400708: joints01 1
+    400710: joints01 2
+    400712: joints01 3
+    400714: joints01 4
+    400716: latex gloves
+    400718: Left_Door
+    400720: Left_Door 1
+    400722: Left_eye_ball
+    400724: Left_eye_lens
+    400726: Left_eye_lens1
+    400728: Left_Glove
+    400730: Left_hand
+    400732: Left_hand 1
+    400734: Left_hand 2
+    400736: Left_Hand_Glove
+    400738: Left_Hand_Glove 1
+    400740: locator1
+    400742: locator1 1
+    400744: locator1 2
+    400746: locMatch_l_elbow01
+    400748: locMatch_l_elbow01 1
+    400750: locMatch_l_elbow01 2
+    400752: locMatch_r_elbow01
+    400754: locMatch_r_elbow01 1
+    400756: locMatch_r_elbow01 2
+    400758: locMatch_r_wrist01
+    400760: locMatch_r_wrist01 1
+    400762: locMatch_r_wrist01 2
+    400764: Lubricant_Gel_Packet
+    400766: M_Skin_NoGenital
+    400768: M_Skin_NoGenital 1
+    400770: M_Skin_NoGenital 2
+    400772: M_Skin_NoGenital 3
+    400774: M_Skin_NoGenital 4
+    400776: M_Skin_NoGenital 5
+    400778: Main_Door
+    400780: MainJnt01
+    400782: MainJnt01 1
+    400784: Master_Control
+    400786: Master_Control 1
+    400788: mid_wireControl01
+    400790: mid_wireControl01 1
+    400792: mirrors_bath01
+    400794: mobile curtain frame
+    400796: mobile curtain frame01
+    400798: mobile curtain frame02
+    400800: mobile curtain leg
+    400802: mobile curtain leg2
+    400804: mobile curtain leg3
+    400806: mobile curtain leg4
+    400808: mobile curtain leg5
+    400810: mobile curtain leg6
+    400812: Mobile_Curtain_01
+    400814: Mobile_Curtain_02
+    400816: Mobile_Curtain_03
+    400818: Models01
+    400820: Models01 1
+    400822: monitor01_body01
+    400824: Obturator
+    400826: Obturator 1
+    400828: Obturator 2
+    400830: Operating_Table
+    400832: Operation_Theater
+    400834: OT_13_Ambulance_Strecher
+    400836: OT_29_Hospital_Ventilator
+    400838: perforated metal foil
+    400840: Pipe_01
+    400842: Pipe_02
+    400844: Pipe_B1
+    400846: plexiglass1
+    400848: plinth
+    400850: polySurface1
+    400852: polySurface10
+    400854: polySurface11
+    400856: polySurface12
+    400858: polySurface2
+    400860: polySurface2 1
+    400862: polySurface3
+    400864: polySurface5
+    400866: polySurface50
+    400868: polySurface51
+    400870: polySurface52
+    400872: polySurface53
+    400874: polySurface54
+    400876: polySurface55
+    400878: polySurface6
+    400880: polySurface7
+    400882: Rectangle22
+    400884: Rectangle25
+    400886: Rectangle26
+    400888: Rectangle41
+    400890: Right_Door
+    400892: Right_Door 1
+    400894: Right_eye_ball
+    400896: Right_Glove
+    400898: Right_hand
+    400900: Right_hand 1
+    400902: Right_hand 2
+    400904: Right_Hand_Glove
+    400906: Right_Hand_Glove 1
+    400908: Room_Set
+    400910: rotative_suppor02a
+    400912: rotative_support
+    400914: Side_curve_tube
+    400916: Side_curve_tube 1
+    400918: Side_curve_tube 2
+    400920: Sink_Set
+    400922: Soap_dispencer
+    400924: Soap_Dispensor
+    400926: Spotlight001
+    400928: Spotlight002
+    400930: Spotlight003
+    400932: Spotlight004
+    400934: Spotlight005
+    400936: Spotlight006
+    400938: Spotlight007
+    400940: Spotlight008
+    400942: spotlight_shade
+    400944: spotlight_shade001
+    400946: spotlight_shade002
+    400948: spotlight_shade003
+    400950: spotlight_shade004
+    400952: spotlight_shade005
+    400954: spotlight_shade006
+    400956: spotlight_shade007
+    400958: Syringe
+    400960: Syringe1
+    400962: syringe_holder
+    400964: syringe_holder 1
+    400966: syringe_outer
+    400968: syringe_outer 1
+    400970: Text002
+    400972: Tissue_paper1
+    400974: Top_cover
+    400976: top_wireControl01
+    400978: top_wireControl01 1
+    400980: Towel
+    400982: Towel_Ring
+    400984: Towel_Set
+    400986: Trach
+    400988: Trach 1
+    400990: Trach 2
+    400992: //RootNode
+    400994: Trach_and_Obturator
+    400996: Trach_and_Obturator 1
+    400998: Trach_and_Obturator1
+    401000: Trach_box_2_5
+    401002: Trach_box_3_0
+    401004: Trach_Container_Box
+    401006: Trach_Rigged
+    401008: trach_rigged
+    401010: Trach_Tie_2_B12
+    401012: Trach_Tie_3
+    401014: Trach_Tie_3_B1
+    401016: Trach_Tie_B1
+    401018: Trach_Tie_Original
+    401020: Trach_Tie_Original1
+    401022: Trach_Tie_Original4
+    401024: transform100
+    401026: transform101
+    401028: transform102
+    401030: transform103
+    401032: transform104
+    401034: transform105
+    401036: transform106
+    401038: transform107
+    401040: transform108
+    401042: transform109
+    401044: transform110
+    401046: transform111
+    401048: transform112
+    401050: transform113
+    401052: transform114
+    401054: transform115
+    401056: transform116
+    401058: transform117
+    401060: transform118
+    401062: transform119
+    401064: transform120
+    401066: transform121
+    401068: transform122
+    401070: transform123
+    401072: transform124
+    401074: transform125
+    401076: transform126
+    401078: transform127
+    401080: transform128
+    401082: transform129
+    401084: transform13
+    401086: transform130
+    401088: transform131
+    401090: transform132
+    401092: transform133
+    401094: transform14
+    401096: transform15
+    401098: transform16
+    401100: transform17
+    401102: transform18
+    401104: transform19
+    401106: transform20
+    401108: transform21
+    401110: transform23
+    401112: transform24
+    401114: transform25
+    401116: transform26
+    401118: transform27
+    401120: transform28
+    401122: transform29
+    401124: transform30
+    401126: transform31
+    401128: transform32
+    401130: transform33
+    401132: transform34
+    401134: transform35
+    401136: transform36
+    401138: transform37
+    401140: transform38
+    401142: transform39
+    401144: transform40
+    401146: transform41
+    401148: transform42
+    401150: transform43
+    401152: transform44
+    401154: transform45
+    401156: transform46
+    401158: transform47
+    401160: transform48
+    401162: transform49
+    401164: transform50
+    401166: transform51
+    401168: transform52
+    401170: transform53
+    401172: transform54
+    401174: transform55
+    401176: transform56
+    401178: transform57
+    401180: transform58
+    401182: transform59
+    401184: transform60
+    401186: transform61
+    401188: transform62
+    401190: transform63
+    401192: transform64
+    401194: transform65
+    401196: transform66
+    401198: transform67
+    401200: transform68
+    401202: transform69
+    401204: transform70
+    401206: transform71
+    401208: transform72
+    401210: transform73
+    401212: transform74
+    401214: transform75
+    401216: transform76
+    401218: transform77
+    401220: transform78
+    401222: transform79
+    401224: transform80
+    401226: transform81
+    401228: transform82
+    401230: transform83
+    401232: transform84
+    401234: transform85
+    401236: transform86
+    401238: transform87
+    401240: transform88
+    401242: transform89
+    401244: transform90
+    401246: transform91
+    401248: transform92
+    401250: transform93
+    401252: transform94
+    401254: transform95
+    401256: transform96
+    401258: transform97
+    401260: transform98
+    401262: transform99
+    401264: Tube032
+    401266: Tube040
+    401268: Tube041
+    401270: Tube042
+    401272: Tube043
+    401274: Tube044
+    401276: Tube045
+    401278: Tube046
+    401280: upperBody91
+    401282: upperBody91 1
+    401284: ventilator  bag cap
+    401286: ventilator arm handle01
+    401288: ventilator arm segment02
+    401290: ventilator arm segment04
+    401292: ventilator bag
+    401294: ventilator base
+    401296: ventilator box01
+    401298: ventilator brushed metal01
+    401300: ventilator button
+    401302: ventilator button cap
+    401304: ventilator controls
+    401306: ventilator controls 2
+    401308: ventilator glass01
+    401310: ventilator glass03
+    401312: ventilator glass04
+    401314: ventilator handle
+    401316: ventilator hose cap 07
+    401318: ventilator hose cap 11
+    401320: ventilator hose cap 12
+    401322: ventilator hose cap 13
+    401324: ventilator hose cap 14
+    401326: ventilator hose cap 15
+    401328: ventilator hose cap 16
+    401330: ventilator hose cap 17
+    401332: ventilator hose cap04
+    401334: ventilator hose cap05
+    401336: ventilator hose output02
+    401338: ventilator hose output03
+    401340: ventilator hose segment01
+    401342: ventilator hose segment02
+    401344: ventilator hose segment03
+    401346: ventilator hose support
+    401348: ventilator hose support 03
+    401350: ventilator hose support 04
+    401352: ventilator large button
+    401354: ventilator led01
+    401356: ventilator led02
+    401358: ventilator monitor handle
+    401360: ventilator screen
+    401362: ventilator stand
+    401364: ventilator support structure
+    401366: Wall
+    401368: Wash_Basin
+    401370: wheel013
+    401372: wheel014
+    401374: wheel015
+    401376: wheel08
+    401378: wheel_axis08a
+    401380: wheel_axis08a1
+    401382: wheel_axis08a2
+    401384: wheel_axis08a3
+    401386: window glass01
+    401388: window glass02
+    401390: Wings_holder
+    401392: Wings_holder 1
+    401394: Wings_holder 2
+    401396: zhiniaoku
+    2100000: AI_White_Light
+    2100002: AI_Wood_Texture
+    2100004: AI_Ceiling
+    2100006: AI_Ceiling_Pattern
+    2100008: AI_Floor_Color
+    2100010: AI_Wall_Shader
+    2100012: AI_Cuttings_Tile_Shader
+    2100014: blinn1
+    2100016: AI_Dark_Grey_Metal
+    2100018: AI_Chrome
+    2100020: AI_Window_Glass
+    2100022: Ai_Blue_Light
+    2100024: AI_Electronic_Clock
+    2100026: mirror
+    2100028: chrome
+    2100030: tub and sink
+    2100032: gloves box
+    2100034: white box
+    2100036: gloves_
+    2100038: gloves image
+    2100040: gloves box 2
+    2100042: gloves bo3
+    2100044: hardware
+    2100046: AI_Aluminium1
+    2100048: aiStandardSurface1
+    2100050: blinn2
+    2100052: metal_strecher1
+    2100054: doctors stool_leather1
+    2100056: plastic_strecher1
+    2100058: A_1_Ventilator_Screen_02
+    2100060: A_1_Switch_Board
+    2100062: A_1_Ventilator_menu
+    2100064: A_1_White_Metal
+    2100066: A_1_Switch_Blue_Plastic
+    2100068: A_1_Green_Button
+    2100070: A_1_Grey_Plastic
+    2100072: A_1_Ventilator_Blue_Glass
+    2100074: A_1_Ventilator_Blue_Hose
+    2100076: A_1_Ventilator_Rubber
+    2100078: A_1_Ventilator_Controls
+    2100080: towel1
+    2100082: blinn3
+    2100084: Gel_tube
+    2100086: Lubricant_gel
+    2100088: Trach_ties
+    2100090: Tissue_paper
+    2100092: Trach_box
+    2100094: Trach_set_mat1
+    2100096: Air_transmeter_mat1
+    2100098: blinn6
+    2100100: Top_Cover
+    2100102: Container
+    2100104: syringe_plastic_2
+    2100106: Syringe_plastic_1
+    2100108: Trach_set_mat
+    2100110: Air_transmeter_mat
+    2100112: aiSkin1
+    2100114: aiStandard1
+    2100116: aiStandard3
+    2100118: aiStandard2
+    2100120: Eyes_S_lambert25
+    2100122: Eyes_S_lambert26
+    2100124: blue_gloves
+    2100126: AI_Body
+    2100128: AI_Body2
+    2100130: blue_orange
+    2100132: AI_Body4
+    2100134: White_Plastic
+    2100136: A_1_Ventilator_Yellow_Hose
+    2100138: Trach_set_mat2
+    2100140: Air_transmeter_mat2
+    2100142: trans_tube
+    2300000: Air_transmeter 1
+    2300002: Air_Tube
+    2300004: Baby_body
+    2300006: Bed
+    2300008: Box147
+    2300010: Box176
+    2300012: Box227
+    2300014: Box228
+    2300016: Box230
+    2300018: Box231
+    2300020: Box232
+    2300022: Box233
+    2300024: Box236
+    2300026: Box237
+    2300028: Box243
+    2300030: cabinets bathroom master01
+    2300032: ceiling frames
+    2300034: ChamferCyl30
+    2300036: ChamferCyl32
+    2300038: ChamferCyl38b
+    2300040: ChamferCyl40
+    2300042: ChamferCyl42
+    2300044: ChamferCyl44a
+    2300046: Container1
+    2300048: counter bathroom02
+    2300050: curtain
+    2300052: curtain01
+    2300054: curtain02
+    2300056: Curve_tube
+    2300058: Curve_tube_trans
+    2300060: Curve_tube_trans_blend
+    2300062: Cylinder102
+    2300064: Cylinder114
+    2300066: Cylinder123
+    2300068: Cylinder124
+    2300070: Cylinder69ggff2
+    2300072: Cylinder75
+    2300074: Cylinder81
+    2300076: Cylinder99
+    2300078: door handle
+    2300080: door handle01
+    2300082: Door_Frame
+    2300084: drawer013
+    2300086: drawer017
+    2300088: drawer018
+    2300090: drawer019
+    2300092: Drawer_Handle_01
+    2300094: Drawer_Handle_02
+    2300096: Drawer_Handle_03
+    2300098: Drawer_Handle_04
+    2300100: eye_outer
+    2300102: floor
+    2300104: Gel_Tube
+    2300106: glass
+    2300108: Holder
+    2300110: Holder 1
+    2300112: inner_tube 1
+    2300114: latex gloves
+    2300116: Left_Door 1
+    2300118: Left_eye_ball
+    2300120: Left_eye_lens
+    2300122: Left_eye_lens1
+    2300124: Left_Glove
+    2300126: Lubricant_Gel_Packet
+    2300128: mirrors_bath01
+    2300130: mobile curtain frame
+    2300132: mobile curtain frame01
+    2300134: mobile curtain frame02
+    2300136: mobile curtain leg
+    2300138: mobile curtain leg2
+    2300140: mobile curtain leg3
+    2300142: mobile curtain leg4
+    2300144: mobile curtain leg5
+    2300146: mobile curtain leg6
+    2300148: monitor01_body01
+    2300150: Obturator
+    2300152: Operating_Table
+    2300154: perforated metal foil
+    2300156: Pipe_02
+    2300158: plexiglass1
+    2300160: plinth
+    2300162: polySurface1
+    2300164: polySurface10
+    2300166: polySurface11
+    2300168: polySurface12
+    2300170: polySurface2
+    2300172: polySurface2 1
+    2300174: polySurface3
+    2300176: polySurface5
+    2300178: polySurface50
+    2300180: polySurface51
+    2300182: polySurface52
+    2300184: polySurface53
+    2300186: polySurface54
+    2300188: polySurface55
+    2300190: polySurface6
+    2300192: polySurface7
+    2300194: Rectangle22
+    2300196: Rectangle25
+    2300198: Rectangle26
+    2300200: Rectangle41
+    2300202: Right_Door 1
+    2300204: Right_eye_ball
+    2300206: Right_Glove
+    2300208: rotative_suppor02a
+    2300210: rotative_support
+    2300212: Side_curve_tube
+    2300214: Sink_Set
+    2300216: Soap_dispencer
+    2300218: spotlight_shade
+    2300220: spotlight_shade001
+    2300222: spotlight_shade002
+    2300224: spotlight_shade003
+    2300226: spotlight_shade004
+    2300228: spotlight_shade005
+    2300230: spotlight_shade006
+    2300232: spotlight_shade007
+    2300234: syringe_holder
+    2300236: syringe_holder 1
+    2300238: syringe_outer
+    2300240: syringe_outer 1
+    2300242: Text002
+    2300244: Tissue_paper1
+    2300246: Top_cover
+    2300248: Towel
+    2300250: Towel_Ring
+    2300252: Trach_box_2_5
+    2300254: Trach_box_3_0
+    2300256: Trach_Tie_3
+    2300258: Trach_Tie_Original
+    2300260: Trach_Tie_Original1
+    2300262: Trach_Tie_Original4
+    2300264: Tube032
+    2300266: Tube040
+    2300268: Tube041
+    2300270: Tube042
+    2300272: Tube043
+    2300274: Tube044
+    2300276: Tube045
+    2300278: Tube046
+    2300280: ventilator  bag cap
+    2300282: ventilator arm handle01
+    2300284: ventilator arm segment02
+    2300286: ventilator arm segment04
+    2300288: ventilator bag
+    2300290: ventilator base
+    2300292: ventilator box01
+    2300294: ventilator brushed metal01
+    2300296: ventilator button
+    2300298: ventilator button cap
+    2300300: ventilator controls
+    2300302: ventilator controls 2
+    2300304: ventilator glass01
+    2300306: ventilator glass03
+    2300308: ventilator glass04
+    2300310: ventilator handle
+    2300312: ventilator hose cap 07
+    2300314: ventilator hose cap 11
+    2300316: ventilator hose cap 12
+    2300318: ventilator hose cap 13
+    2300320: ventilator hose cap 14
+    2300322: ventilator hose cap 15
+    2300324: ventilator hose cap 16
+    2300326: ventilator hose cap 17
+    2300328: ventilator hose cap04
+    2300330: ventilator hose cap05
+    2300332: ventilator hose output02
+    2300334: ventilator hose output03
+    2300336: ventilator hose segment01
+    2300338: ventilator hose segment02
+    2300340: ventilator hose segment03
+    2300342: ventilator hose support
+    2300344: ventilator hose support 03
+    2300346: ventilator hose support 04
+    2300348: ventilator large button
+    2300350: ventilator led01
+    2300352: ventilator led02
+    2300354: ventilator monitor handle
+    2300356: ventilator screen
+    2300358: ventilator stand
+    2300360: ventilator support structure
+    2300362: Wall
+    2300364: wheel013
+    2300366: wheel014
+    2300368: wheel015
+    2300370: wheel08
+    2300372: wheel_axis08a
+    2300374: wheel_axis08a1
+    2300376: wheel_axis08a2
+    2300378: wheel_axis08a3
+    2300380: window glass01
+    2300382: window glass02
+    2300384: Wings_holder
+    2300386: zhiniaoku
+    3300000: Air_transmeter 1
+    3300002: Air_Tube
+    3300004: Baby_body
+    3300006: Bed
+    3300008: Box147
+    3300010: Box176
+    3300012: Box227
+    3300014: Box228
+    3300016: Box230
+    3300018: Box231
+    3300020: Box232
+    3300022: Box233
+    3300024: Box236
+    3300026: Box237
+    3300028: Box243
+    3300030: cabinets bathroom master01
+    3300032: ceiling frames
+    3300034: ChamferCyl30
+    3300036: ChamferCyl32
+    3300038: ChamferCyl38b
+    3300040: ChamferCyl40
+    3300042: ChamferCyl42
+    3300044: ChamferCyl44a
+    3300046: Container1
+    3300048: counter bathroom02
+    3300050: curtain
+    3300052: curtain01
+    3300054: curtain02
+    3300056: Curve_tube
+    3300058: Curve_tube_trans
+    3300060: Curve_tube_trans_blend
+    3300062: Cylinder102
+    3300064: Cylinder114
+    3300066: Cylinder123
+    3300068: Cylinder124
+    3300070: Cylinder69ggff2
+    3300072: Cylinder75
+    3300074: Cylinder81
+    3300076: Cylinder99
+    3300078: door handle
+    3300080: door handle01
+    3300082: Door_Frame
+    3300084: drawer013
+    3300086: drawer017
+    3300088: drawer018
+    3300090: drawer019
+    3300092: Drawer_Handle_01
+    3300094: Drawer_Handle_02
+    3300096: Drawer_Handle_03
+    3300098: Drawer_Handle_04
+    3300100: eye_outer
+    3300102: floor
+    3300104: Gel_Tube
+    3300106: glass
+    3300108: Holder
+    3300110: Holder 1
+    3300112: inner_tube 1
+    3300114: latex gloves
+    3300116: Left_Door 1
+    3300118: Left_eye_ball
+    3300120: Left_eye_lens
+    3300122: Left_eye_lens1
+    3300124: Left_Glove
+    3300126: Lubricant_Gel_Packet
+    3300128: mirrors_bath01
+    3300130: mobile curtain frame
+    3300132: mobile curtain frame01
+    3300134: mobile curtain frame02
+    3300136: mobile curtain leg
+    3300138: mobile curtain leg2
+    3300140: mobile curtain leg3
+    3300142: mobile curtain leg4
+    3300144: mobile curtain leg5
+    3300146: mobile curtain leg6
+    3300148: monitor01_body01
+    3300150: Obturator
+    3300152: Operating_Table
+    3300154: perforated metal foil
+    3300156: Pipe_02
+    3300158: plexiglass1
+    3300160: plinth
+    3300162: polySurface1
+    3300164: polySurface10
+    3300166: polySurface11
+    3300168: polySurface12
+    3300170: polySurface2
+    3300172: polySurface2 1
+    3300174: polySurface3
+    3300176: polySurface5
+    3300178: polySurface50
+    3300180: polySurface51
+    3300182: polySurface52
+    3300184: polySurface53
+    3300186: polySurface54
+    3300188: polySurface55
+    3300190: polySurface6
+    3300192: polySurface7
+    3300194: Rectangle22
+    3300196: Rectangle25
+    3300198: Rectangle26
+    3300200: Rectangle41
+    3300202: Right_Door 1
+    3300204: Right_eye_ball
+    3300206: Right_Glove
+    3300208: rotative_suppor02a
+    3300210: rotative_support
+    3300212: Side_curve_tube
+    3300214: Sink_Set
+    3300216: Soap_dispencer
+    3300218: spotlight_shade
+    3300220: spotlight_shade001
+    3300222: spotlight_shade002
+    3300224: spotlight_shade003
+    3300226: spotlight_shade004
+    3300228: spotlight_shade005
+    3300230: spotlight_shade006
+    3300232: spotlight_shade007
+    3300234: syringe_holder
+    3300236: syringe_holder 1
+    3300238: syringe_outer
+    3300240: syringe_outer 1
+    3300242: Text002
+    3300244: Tissue_paper1
+    3300246: Top_cover
+    3300248: Towel
+    3300250: Towel_Ring
+    3300252: Trach_box_2_5
+    3300254: Trach_box_3_0
+    3300256: Trach_Tie_3
+    3300258: Trach_Tie_Original
+    3300260: Trach_Tie_Original1
+    3300262: Trach_Tie_Original4
+    3300264: Tube032
+    3300266: Tube040
+    3300268: Tube041
+    3300270: Tube042
+    3300272: Tube043
+    3300274: Tube044
+    3300276: Tube045
+    3300278: Tube046
+    3300280: ventilator  bag cap
+    3300282: ventilator arm handle01
+    3300284: ventilator arm segment02
+    3300286: ventilator arm segment04
+    3300288: ventilator bag
+    3300290: ventilator base
+    3300292: ventilator box01
+    3300294: ventilator brushed metal01
+    3300296: ventilator button
+    3300298: ventilator button cap
+    3300300: ventilator controls
+    3300302: ventilator controls 2
+    3300304: ventilator glass01
+    3300306: ventilator glass03
+    3300308: ventilator glass04
+    3300310: ventilator handle
+    3300312: ventilator hose cap 07
+    3300314: ventilator hose cap 11
+    3300316: ventilator hose cap 12
+    3300318: ventilator hose cap 13
+    3300320: ventilator hose cap 14
+    3300322: ventilator hose cap 15
+    3300324: ventilator hose cap 16
+    3300326: ventilator hose cap 17
+    3300328: ventilator hose cap04
+    3300330: ventilator hose cap05
+    3300332: ventilator hose output02
+    3300334: ventilator hose output03
+    3300336: ventilator hose segment01
+    3300338: ventilator hose segment02
+    3300340: ventilator hose segment03
+    3300342: ventilator hose support
+    3300344: ventilator hose support 03
+    3300346: ventilator hose support 04
+    3300348: ventilator large button
+    3300350: ventilator led01
+    3300352: ventilator led02
+    3300354: ventilator monitor handle
+    3300356: ventilator screen
+    3300358: ventilator stand
+    3300360: ventilator support structure
+    3300362: Wall
+    3300364: wheel013
+    3300366: wheel014
+    3300368: wheel015
+    3300370: wheel08
+    3300372: wheel_axis08a
+    3300374: wheel_axis08a1
+    3300376: wheel_axis08a2
+    3300378: wheel_axis08a3
+    3300380: window glass01
+    3300382: window glass02
+    3300384: Wings_holder
+    3300386: zhiniaoku
+    4300000: spotlight_shade
+    4300002: Tube032
+    4300004: spotlight_shade001
+    4300006: Tube040
+    4300008: spotlight_shade002
+    4300010: Tube041
+    4300012: spotlight_shade003
+    4300014: Tube044
+    4300016: spotlight_shade004
+    4300018: Tube046
+    4300020: spotlight_shade005
+    4300022: Tube045
+    4300024: spotlight_shade006
+    4300026: Tube042
+    4300028: spotlight_shade007
+    4300030: Tube043
+    4300032: ceiling frames
+    4300034: plexiglass1
+    4300036: perforated metal foil
+    4300038: floor
+    4300040: Wall
+    4300042: plinth
+    4300044: curtain
+    4300046: mobile curtain leg
+    4300048: mobile curtain frame
+    4300050: mobile curtain leg2
+    4300052: curtain01
+    4300054: mobile curtain frame01
+    4300056: mobile curtain leg3
+    4300058: mobile curtain leg4
+    4300060: mobile curtain frame02
+    4300062: curtain02
+    4300064: mobile curtain leg5
+    4300066: mobile curtain leg6
+    4300068: Door_Frame
+    4300070: window glass01
+    4300072: door handle
+    4300074: Left_Door
+    4300076: polySurface2
+    4300078: polySurface1
+    4300080: window glass02
+    4300082: door handle01
+    4300084: Right_Door
+    4300086: Text002
+    4300088: Box230
+    4300090: Box228
+    4300092: Box227
+    4300094: cabinets bathroom master01
+    4300096: mirrors_bath01
+    4300098: counter bathroom02
+    4300100: latex gloves
+    4300102: drawer013
+    4300104: drawer017
+    4300106: drawer018
+    4300108: drawer019
+    4300110: Sink_Set
+    4300112: Drawer_Handle_04
+    4300114: Drawer_Handle_03
+    4300116: Drawer_Handle_02
+    4300118: Drawer_Handle_01
+    4300120: Soap_dispencer
+    4300122: glass
+    4300124: Rectangle41
+    4300126: Bed
+    4300128: Rectangle26
+    4300130: Rectangle25
+    4300132: Box233
+    4300134: Box237
+    4300136: Box232
+    4300138: Box243
+    4300140: Box176
+    4300142: Box231
+    4300144: Cylinder102
+    4300146: Box236
+    4300148: Cylinder81
+    4300150: Cylinder123
+    4300152: Cylinder99
+    4300154: Cylinder124
+    4300156: ChamferCyl44a
+    4300158: ChamferCyl40
+    4300160: ChamferCyl42
+    4300162: ChamferCyl30
+    4300164: ChamferCyl38b
+    4300166: ChamferCyl32
+    4300168: Rectangle22
+    4300170: Cylinder69ggff2
+    4300172: Cylinder114
+    4300174: Cylinder75
+    4300176: Box147
+    4300178: ventilator screen
+    4300180: monitor01_body01
+    4300182: ventilator controls
+    4300184: ventilator button
+    4300186: ventilator button cap
+    4300188: ventilator hose output03
+    4300190: ventilator hose output02
+    4300192: ventilator led01
+    4300194: ventilator led02
+    4300196: wheel_axis08a
+    4300198: wheel_axis08a3
+    4300200: wheel_axis08a2
+    4300202: wheel_axis08a1
+    4300204: wheel015
+    4300206: wheel014
+    4300208: wheel013
+    4300210: wheel08
+    4300212: ventilator stand
+    4300214: ventilator base
+    4300216: rotative_suppor02a
+    4300218: rotative_support
+    4300220: ventilator monitor handle
+    4300222: ventilator handle
+    4300224: ventilator glass01
+    4300226: ventilator brushed metal01
+    4300228: ventilator hose segment01
+    4300230: ventilator hose segment03
+    4300232: ventilator hose segment02
+    4300234: ventilator hose support
+    4300236: ventilator bag
+    4300238: ventilator hose cap 17
+    4300240: ventilator hose cap05
+    4300242: ventilator hose cap04
+    4300244: ventilator hose cap 15
+    4300246: ventilator hose cap 14
+    4300248: ventilator  bag cap
+    4300250: ventilator hose cap 13
+    4300252: ventilator hose cap 12
+    4300254: ventilator glass04
+    4300256: ventilator hose support 04
+    4300258: ventilator glass03
+    4300260: ventilator hose cap 11
+    4300262: ventilator hose support 03
+    4300264: ventilator hose cap 07
+    4300266: ventilator support structure
+    4300268: polySurface52
+    4300270: ventilator arm segment02
+    4300272: polySurface51
+    4300274: polySurface50
+    4300276: ventilator arm handle01
+    4300278: ventilator arm segment04
+    4300280: ventilator box01
+    4300282: ventilator controls 2
+    4300284: ventilator large button
+    4300286: ventilator hose cap 16
+    4300288: Towel_Ring
+    4300290: Towel
+    4300292: Holder
+    4300294: Operating_Table
+    4300296: Gel_Tube
+    4300298: Lubricant_Gel_Packet
+    4300300: Trach_Tie_Original
+    4300302: Tissue_paper1
+    4300304: Trach_box_2_5
+    4300306: Trach_box_3_0
+    4300308: Obturator
+    4300310: Curve_tube
+    4300312: Side_curve_tube
+    4300314: Holder
+    4300316: Air_transmeter
+    4300318: Wings_holder
+    4300320: Air_Tube
+    4300322: inner_tube
+    4300324: Curve_tube_trans
+    4300326: Top_cover
+    4300328: Container1
+    4300330: syringe_holder
+    4300332: syringe_outer
+    4300334: Obturator
+    4300336: Curve_tube
+    4300338: Side_curve_tube
+    4300340: Holder
+    4300342: Air_Tube
+    4300344: Curve_tube_trans_blend
+    4300346: Wings_holder
+    4300348: Curve_tube_trans
+    4300350: inner_tube
+    4300352: Air_transmeter
+    4300354: Trach_Tie_Original1
+    4300356: Trach_Tie_Original4
+    4300358: Trach_Tie_B1
+    4300360: Trach_Tie_2_B12
+    4300362: syringe_holder
+    4300364: syringe_outer
+    4300366: Baby_body
+    4300368: zhiniaoku
+    4300370: Left_eye_lens
+    4300372: Left_eye_lens1
+    4300374: eye_outer
+    4300376: Left_eye_ball
+    4300378: Right_eye_ball
+    4300380: Left_Glove
+    4300382: Right_Glove
+    4300384: Left_hand
+    4300386: Right_hand
+    4300388: Right_Hand_Glove
+    4300390: Left_Hand_Glove
+    4300392: Left_hand
+    4300394: Right_hand
+    4300396: Right_Hand_Glove
+    4300398: Left_Hand_Glove
+    4300400: Left_hand
+    4300402: Right_hand
+    4300404: polySurface10
+    4300406: polySurface2
+    4300408: polySurface6
+    4300410: polySurface7
+    4300412: polySurface5
+    4300414: polySurface3
+    4300416: polySurface11
+    4300418: polySurface12
+    4300420: polySurface53
+    4300422: polySurface54
+    4300424: polySurface55
+    4300426: Obturator
+    4300428: Curve_tube
+    4300430: Side_curve_tube
+    4300432: Holder
+    4300434: Air_transmeter
+    4300436: Wings_holder
+    4300438: Air_Tube
+    4300440: inner_tube
+    4300442: Curve_tube_trans
+    4300444: Trach_Tie_3
+    4300446: Trach_Tie_3_B1
+    4300448: Pipe_02
+    4300450: Pipe_B1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Air_transmeter
+    13700002: Air_transmeter 2
+    13700004: Air_Tube 1
+    13700006: Air_Tube 2
+    13700008: Curve_tube 1
+    13700010: Curve_tube 2
+    13700012: Curve_tube_trans 1
+    13700014: Curve_tube_trans 2
+    13700016: Holder 2
+    13700018: Holder 3
+    13700020: inner_tube
+    13700022: inner_tube 2
+    13700024: Left_hand
+    13700026: Left_hand 1
+    13700028: Left_hand 2
+    13700030: Left_Hand_Glove
+    13700032: Left_Hand_Glove 1
+    13700034: Obturator 1
+    13700036: Obturator 2
+    13700038: Pipe_B1
+    13700040: Right_hand
+    13700042: Right_hand 1
+    13700044: Right_hand 2
+    13700046: Right_Hand_Glove
+    13700048: Right_Hand_Glove 1
+    13700050: Side_curve_tube 1
+    13700052: Side_curve_tube 2
+    13700054: Trach_Tie_2_B12
+    13700056: Trach_Tie_3_B1
+    13700058: Trach_Tie_B1
+    13700060: Wings_holder 1
+    13700062: Wings_holder 2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Aluminium1
+    second: {fileID: 2100000, guid: 39f013d7f8d0a4e4196920a54caa54b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Body
+    second: {fileID: 2100000, guid: 3ce166dd0808fb14abe13fe9ae88094d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Body2
+    second: {fileID: 2100000, guid: 3ce166dd0808fb14abe13fe9ae88094d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Body4
+    second: {fileID: 2100000, guid: 3ce166dd0808fb14abe13fe9ae88094d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Ceiling
+    second: {fileID: 2100000, guid: a595c0136f94495498fd153cee4c1158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Ceiling_Pattern
+    second: {fileID: 2100000, guid: fe46feb08883bd140865d87fc65eb831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Chrome
+    second: {fileID: 2100000, guid: 0afe25a800472a540a95f0197b15a2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Cuttings_Tile_Shader
+    second: {fileID: 2100000, guid: eb8393ce26bf250428f9bcf2f8b8f38c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Dark_Grey_Metal
+    second: {fileID: 2100000, guid: ae2291f8a7ec7ce47bd573d50a81e834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Electronic_Clock
+    second: {fileID: 2100000, guid: 847e9c19bbc8ab040977848dc2471546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Floor_Color
+    second: {fileID: 2100000, guid: ba2dd35bfd897714ab8c5eb24828a3db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Wall_Shader
+    second: {fileID: 2100000, guid: 5ee3f2719167f0a419689f7968f7b4fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_White_Light
+    second: {fileID: 2100000, guid: 74f9a4beb71019a48b581a9a8bc7e4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Window_Glass
+    second: {fileID: 2100000, guid: 4f1e485fa90ea60458476b26b48522ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Wood_Texture
+    second: {fileID: 2100000, guid: 6047ce9294d3ec242b7b0dba5db66e51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Green_Button
+    second: {fileID: 2100000, guid: c5c328e1a44b51f4aa248227bb0db2aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Grey_Plastic
+    second: {fileID: 2100000, guid: 551a92057b1d42b45bdc40935062b0d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Switch_Blue_Plastic
+    second: {fileID: 2100000, guid: 0f32f7401bac4d348b4fe3b2b319194c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Switch_Board
+    second: {fileID: 2100000, guid: 90cc5bf32d20fc146a3c3f6fcaf6a137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Blue_Glass
+    second: {fileID: 2100000, guid: a5daf0c03d2fcd7499f3273be093ab5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Blue_Hose
+    second: {fileID: 2100000, guid: 428b360471d1a664bab0ad153cba643b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Controls
+    second: {fileID: 2100000, guid: d1f20dcd9d881294c9a4284a2f7a3fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Rubber
+    second: {fileID: 2100000, guid: 08b17441d24f6f942814c3aa582810d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Screen_02
+    second: {fileID: 2100000, guid: f42cb364b3e936942895ad0b023e1bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_Yellow_Hose
+    second: {fileID: 2100000, guid: 05dd0882a132e2b4fbe502d8e502e5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_Ventilator_menu
+    second: {fileID: 2100000, guid: b551ab637a89f8d4db59a814b6b3edad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_1_White_Metal
+    second: {fileID: 2100000, guid: b7cb8388c05d69c4a98e643792b88953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ai_Blue_Light
+    second: {fileID: 2100000, guid: f27442ddececb8448ac7c742c594f782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_transmeter_mat
+    second: {fileID: 2100000, guid: 2458d41e34813ad40b296cb8979fa0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_transmeter_mat1
+    second: {fileID: 2100000, guid: 9d0d8f32061bebb41a003eecb71582b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_transmeter_mat2
+    second: {fileID: 2100000, guid: 531af10fbf6f9aa4b9a3dc606f417cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Container
+    second: {fileID: 2100000, guid: 373db5a98f0b063429f5bd28e1019d2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes_S_lambert25
+    second: {fileID: 2100000, guid: 59f7cc499b3b95241b25899de853ed1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes_S_lambert26
+    second: {fileID: 2100000, guid: 874c546a28fa3bc44bc433265a589060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gel_tube
+    second: {fileID: 2100000, guid: d4a3c0e57015e1e43972ddb10e5c9e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lubricant_gel
+    second: {fileID: 2100000, guid: fc43659361bd34b4897774bd5ce9268a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Syringe_plastic_1
+    second: {fileID: 2100000, guid: 4ea427baea2866142a52bba47ee6bf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tissue_paper
+    second: {fileID: 2100000, guid: b31c5d9fc6e7f7c449a01c6a3b6498ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_Cover
+    second: {fileID: 2100000, guid: c773af51c5ebdf24b838b80fb42542cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trach_box
+    second: {fileID: 2100000, guid: cc268ffe4e931b649bf08395538f6e2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trach_set_mat
+    second: {fileID: 2100000, guid: 4612b26ff7dae2d41915b2a8a35c0c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trach_set_mat1
+    second: {fileID: 2100000, guid: 4612b26ff7dae2d41915b2a8a35c0c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trach_set_mat2
+    second: {fileID: 2100000, guid: 4612b26ff7dae2d41915b2a8a35c0c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trach_ties
+    second: {fileID: 2100000, guid: d715e68ac4b6c7d4c933754dbbe30aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Plastic
+    second: {fileID: 2100000, guid: 75331d8390a65bc48b458a8e531ea5c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiSkin1
+    second: {fileID: 2100000, guid: ae3a5da8c6fc26746b379c2700bf8ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandard1
+    second: {fileID: 2100000, guid: 2b94d7f93530725489d8025609e8980b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandard2
+    second: {fileID: 2100000, guid: 7f7f67806ae1a60499ac1d6d0e0077e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandard3
+    second: {fileID: 2100000, guid: 1eb5cb25769ba904baa45e781a01593b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface1
+    second: {fileID: 2100000, guid: 5b4deaf046935654e9be0fd2fd3d1f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 18560dbf7500bc342852cda4de602d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 7209e218609b06f45a641fe99a3b47ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: 7f536fb5650540a44b41dcf2a313572c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: 9aa74bac62961d84eab3665bf09567ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_gloves
+    second: {fileID: 2100000, guid: 068cc97b36ad3d241adbc3447e1e00fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_orange
+    second: {fileID: 2100000, guid: 099d07a7e742cfb4f81f856c98caf651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 4c667ed17b551154fae1a3e68b6638c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doctors stool_leather1
+    second: {fileID: 2100000, guid: 8cefdbc1227a22b4bafaae89d49ef394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves bo3
+    second: {fileID: 2100000, guid: 1f7a59ad0ead5b9439012da6de63f53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves box
+    second: {fileID: 2100000, guid: c044baf301b2fa148b4cc7db72e10de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves box 2
+    second: {fileID: 2100000, guid: 8190872e7c9d95848bfd528c16f5d500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves image
+    second: {fileID: 2100000, guid: 6e511ba87cb073649a300bc7d89cd9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves_
+    second: {fileID: 2100000, guid: 8b8c6ae097994b649b8bc80849126086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hardware
+    second: {fileID: 2100000, guid: 1379cf4ca18d44445839f80de938ccac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strecher1
+    second: {fileID: 2100000, guid: 7528362f89bed474c8872231d4aeec34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 920afa43ab01d4a48a70efe99da7f9c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_strecher1
+    second: {fileID: 2100000, guid: a6044062358efad4787f64bed2d9a8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: syringe_plastic_2
+    second: {fileID: 2100000, guid: 63f3ddb5fa5c3d44d881e5eaf104289f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: towel1
+    second: {fileID: 2100000, guid: a20e75d34671d5b40b3d57afb6bdb084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trans_tube
+    second: {fileID: 2100000, guid: d5c62a6fcad056341a6bee2e24637b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tub and sink
+    second: {fileID: 2100000, guid: addad2e6acb519b41b3e451ff3cbe919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white box
+    second: {fileID: 2100000, guid: d9a9406f343b97a4695b5070da1a970e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 860
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

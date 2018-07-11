@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: f610983399a8ce043abf9d5066666928
+timeCreated: 1531325394
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arch
+    100002: Arch 1
+    100004: Badage
+    100006: Board
+    100008: Doors
+    100010: Inside_Lift
+    100012: Left_Door
+    100014: Lift01
+    100016: Lift02
+    100018: Lift_Door
+    100020: Lift_Wall
+    100022: Lower_Badage
+    100024: //RootNode
+    100026: Right_Door
+    100028: Roof
+    100030: Under_Construction
+    100032: Upper_Badage
+    100034: Wall_Floor
+    400000: Arch
+    400002: Arch 1
+    400004: Badage
+    400006: Board
+    400008: Doors
+    400010: Inside_Lift
+    400012: Left_Door
+    400014: Lift01
+    400016: Lift02
+    400018: Lift_Door
+    400020: Lift_Wall
+    400022: Lower_Badage
+    400024: //RootNode
+    400026: Right_Door
+    400028: Roof
+    400030: Under_Construction
+    400032: Upper_Badage
+    400034: Wall_Floor
+    2100000: Checker
+    2100002: Lift_Diffuse
+    2300000: Arch
+    2300002: Arch 1
+    2300004: Board
+    2300006: Inside_Lift
+    2300008: Left_Door
+    2300010: Lift_Door
+    2300012: Lift_Wall
+    2300014: Lower_Badage
+    2300016: Right_Door
+    2300018: Roof
+    2300020: Upper_Badage
+    2300022: Wall_Floor
+    3300000: Arch
+    3300002: Arch 1
+    3300004: Board
+    3300006: Inside_Lift
+    3300008: Left_Door
+    3300010: Lift_Door
+    3300012: Lift_Wall
+    3300014: Lower_Badage
+    3300016: Right_Door
+    3300018: Roof
+    3300020: Upper_Badage
+    3300022: Wall_Floor
+    4300000: Inside_Lift
+    4300002: Left_Door
+    4300004: Right_Door
+    4300006: Arch
+    4300008: Wall_Floor
+    4300010: Lift_Wall
+    4300012: Roof
+    4300014: Arch
+    4300016: Board
+    4300018: Lower_Badage
+    4300020: Upper_Badage
+    4300022: Lift_Door
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Checker
+    second: {fileID: 2100000, guid: ad3f922fa9d49cb4dba4136bb1d963ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lift_Diffuse
+    second: {fileID: 2100000, guid: 61abc3fa8d7b2bc41881e7d124868b41, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lift_Diffuse
+    second: {fileID: 2800000, guid: aac1aed2d1d37004288f0a4cfc1accab, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
